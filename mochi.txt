@@ -1,7 +1,12 @@
 Mochi
+<<<<<<< HEAD
 And then adhfaosd 
+=======
+Asdfs
+Sadfasdfasdfasdfasdfasdf
+>>>>>>> 16cc2d5055fdcd193aac32a1587663c2c0353a6e
 
-Sdafasdf
+Sdafasdfas
 
 Staff
 
@@ -13,3 +18,5 @@ Sad
 Deaf
 
 Staff
+
+Adfasdfasdfasdfasdfasdfasdfasdfasdf
